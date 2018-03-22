@@ -1,4 +1,4 @@
-# react_todos
+# react_todos :page_facing_up: :black_nib: :thumbsup:
 A todo app created with react
 
 
