@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+
+
+
+html{
+
+  background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#root {
+
+  
+  text-align: center;
+  text-decoration: none;
+  
+}
+
+#root li {
+  font-size: 22px;
+  list-style-type: none;
+  
+}
+
+#root input {
+
+  font-size: 32px;
+  width: 50rem;
+  height: 2rem;
+  text-align: center;
+}
+
+h1{
+  font-family:'Monoton', cursive;
+  font-size: 5rem;
+}
+
+button{
+  font-size: bold;
+  border:1px solid black;
+  border-radius: 2rem;
+
+}
